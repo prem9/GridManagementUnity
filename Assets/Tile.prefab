@@ -103,3 +103,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ae1d60704352e04894b3e18a736acff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Tile
+  _baseColor: {r: 0.53640085, g: 0.9245283, b: 0.5586828, a: 1}
+  _offsetColor: {r: 0.2494215, g: 0.8962264, b: 0.2603854, a: 1}
+  _renderer: {fileID: 7175539167080016023}
