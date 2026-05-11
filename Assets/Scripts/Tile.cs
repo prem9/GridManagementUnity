@@ -1,4 +1,7 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+
 
 public class Tile : MonoBehaviour
 {
@@ -14,6 +17,7 @@ public class Tile : MonoBehaviour
     void OnMouseEnter()
     {
         _highlight.SetActive(true);
+        Debug.Log("Mouse Entered");
     }
     void OnMouseExit()
     {
