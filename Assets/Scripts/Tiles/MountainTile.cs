@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MountainTile : MonoBehaviour
+public class MountainTile : Tile
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
